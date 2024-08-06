@@ -34,3 +34,6 @@ public class ConsumerApplication implements ApplicationRunner {
 
 }
 
+/*
+* 可以加上限制，如果一个用户已经参与秒杀，那么就不让它再买了
+* */
